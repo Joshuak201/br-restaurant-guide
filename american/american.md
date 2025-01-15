@@ -2,7 +2,7 @@
 ## American
 ---
 Select a restaurant:
-## [McDonald's](http://www.mcdonalds.com/)
+## [McDonald's](http://.mcdonalds.com/)
 ## [Take Away & Cafe](https://www.takeawayandcafe.com/)
 ---
 [Start Over](../home.md)
